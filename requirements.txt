@@ -1,1 +1,7 @@
+# Core Logic
+requests==2.31.0      # For making API calls to Stripe or OU servers
+flask==3.0.0         # If you build a web-based backend
+python-dotenv==1.0.0  # To securely load your secret keys
 
+# Security
+pyjwt==2.8.0         # For secure user login tokens
