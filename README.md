@@ -2,7 +2,7 @@
 **The Hyper-Local Task Marketplace for the University of Oklahoma Community.**
 
 ## 📌 Project Overview
-SoonerGigs is a two-sided marketplace designed specifically for the OU ecosystem. It connects "Time-Poor" individuals (busy students, faculty, and grad students) with "Cash-Poor" students who have gaps in their schedules and need flexible, short-term work.
+OU-Do is a two-sided marketplace designed specifically for the OU ecosystem. It connects "Time-Poor" individuals (busy students, faculty, and grad students) with "Cash-Poor" students who have gaps in their schedules and need flexible, short-term work.
 
 ### The Problem
 * **Rigid Employment:** Traditional campus jobs require fixed 15-20 hour weekly commitments.
