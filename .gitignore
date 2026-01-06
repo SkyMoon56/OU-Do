@@ -1,1 +1,22 @@
+# --- Security & Credentials ---
+# Never upload your real passwords or secret keys!
+.env
+*.pem
+secrets.txt
 
+# --- Python Junk ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+
+# --- Operating System Junk ---
+.DS_Store
+Thumbs.db
+
+# --- App Builder / Frontend Junk ---
+node_modules/
+.expo/
+dist/
